@@ -31,13 +31,13 @@ The dataset used in this project is sourced from Kaggle (details provided within
 
 Clone the repository:  
 ```bash
-git clone 
+git clone "https://github.com/anurag815311/Message-detection.git"
 
 ## ⚙️ Installation
 
 Clone the repository:  
 ```bash
-git clone 
+git clone "https://github.com/anurag815311/Message-detection.git"
 ```
 
 ### Required Libraries:
