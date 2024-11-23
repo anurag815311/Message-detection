@@ -1,5 +1,5 @@
 
-# 📦 Python Project Submission: Message Spam Detection
+# 📦 Python Project Submission: Message Detection
 
 ## 📝 Submitted To:
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 Project Title: Message Spam Detection
+## 📌 Project Title: Message Detection
 
 ### 🔍 Description:
 This project implements a **Message Spam Detection** system using machine learning techniques. The system classifies messages as **spam** or **not spam** based on their content. 
